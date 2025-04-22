@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif)]
+![MasterHead](https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifbasheer&label=Profile%20views&color=0e75b6&style=flat" alt="arifbasheer" /> </p>
 
 <h1 align="center">Hi 👋, I'm Arif Basheer</h1>
