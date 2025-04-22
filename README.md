@@ -37,7 +37,7 @@
 - 🧠 **Resume-based Interview Bot (Voice Enabled)**
 - 💸 **Flight Price Prediction using Linear Regression**
 - 🧾 **Tips Analysis Dashboard using Streamlit**
-- 🧬 **AI Doctor - Symptom Checker & Disease Predictor**
+- 🧬 **AI Car DEtials **
 
 ---
 
