@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **arifbasheer3668@gmail.com**
 
-- ⚡ Fun fact: I love working on projects with my best friend **Nizam** and dream of building impactful tech from **Idukki** 🚀
 
 ---
 
