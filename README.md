@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![MasterHead](https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif)](https://www.deviantart.com/pixeljeff/art/Coding-990517671)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifbasheer&label=Profile%20views&color=0e75b6&style=flat" alt="arifbasheer" /> </p>
 
 <h1 align="center">Hi 👋, I'm Arif Basheer</h1>
@@ -37,7 +37,7 @@
 - 🧠 **Resume-based Interview Bot (Voice Enabled)**
 - 💸 **Flight Price Prediction using Linear Regression**
 - 🧾 **Tips Analysis Dashboard using Streamlit**
-- 🧬 **AI Car DEtials **
+- 🧬 **AI Car Details**
 
 ---
 
