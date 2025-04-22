@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Arif Basheer</h1>
 <h3 align="center">Junior AI Developer | Data Science | Machine Learning | Flask Web Developer | Passionate about Real-time AI Solutions</h3>
 
-- 🌱 I’m currently exploring **Ethical Hacking, AI-based Voice Bots & Live Stock Prediction Systems**
+- 🌱 I’m currently exploring ** AI Voice Bot development for conducting resume-based mock interviews**
 
 - 👯 I’m looking to collaborate on **AI, ML, Flask, and Real-time Projects**
 
